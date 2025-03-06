@@ -2,6 +2,14 @@
 
 A revolutionary decentralized prediction market platform that combines the best features of Pump.fun and Polymarket, creating an engaging and accessible platform for event prediction and trading.
 
+## Author
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/fdfrgwesrdgfs" alt="Author Avatar" width="100" height="100" style="border-radius: 50%;">
+  <p><strong>fdfrgwesrdgfs</strong></p>
+  <p>Email: 01@quiliium.pics</p>
+</div>
+
 ## Features
 
 - **Low-Barrier Market Creation**: Anyone can create prediction markets
@@ -34,8 +42,8 @@ A revolutionary decentralized prediction market platform that combines the best 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pump-poly.git
-cd pump-poly
+git clone https://github.com/fdfrgwesrdgfs/pumppoly.git
+cd pumppoly
 ```
 
 2. Install dependencies:
