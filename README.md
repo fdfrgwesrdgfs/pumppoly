@@ -1,5 +1,9 @@
 # PumpPoly - Decentralized Prediction Market Platform
 
+<div align="center">
+  <img src="assets/logo.svg" alt="PumpPoly Logo" width="800">
+</div>
+
 A revolutionary decentralized prediction market platform that combines the best features of Pump.fun and Polymarket, creating an engaging and accessible platform for event prediction and trading.
 
 ## Author
