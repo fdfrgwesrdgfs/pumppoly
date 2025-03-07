@@ -7,7 +7,6 @@ A revolutionary decentralized prediction market platform that combines the best 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/fdfrgwesrdgfs" alt="Author Avatar" width="100" height="100" style="border-radius: 50%;">
   <p><strong>fdfrgwesrdgfs</strong></p>
-  <p>Email: 01@quiliium.pics</p>
 </div>
 
 ## Features
@@ -118,7 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Security
 
-For security concerns, please email security@yourdomain.com or open a security advisory on GitHub.
+For security concerns, please open a security advisory on GitHub.
 
 ## Acknowledgments
 
